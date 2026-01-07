@@ -128,3 +128,12 @@ footer {
     padding: 15px;
     margin-top: 30px;
 }
+
+footer{
+ 
+    border-bottom: #e11a1a;
+
+}
+button{
+    background-color: #e11a1a;
+}
